@@ -1,0 +1,74 @@
+1582 197
+
+B Boreale caput ][
+
+C Mars
+DE Arcus Ecclipticae. P Polus elus.
+Triang. PAB
+Latus PA 89 33 15
+
+PB 79 57 40
+AngulusAPB 39 36 30
+Latus BA 40 32 20
+AngulusABPlol 14 5
+
+TrIangulum ΑΒΕ. In hoc triangulo quia dantur tria latera, CA, AB et BC,
+datur quoque angulus ΑΒΕ 510 57⁴ 7⁴⁴, qui additus ad angulum ABP 1010 14⁴ 5⁴⁴
+
+exhibet totum angulum PBC 1530 11⁴ 12⁴⁴.
+
+Angulo PBC cum lateribus ambientibus cognito, innotescit complementum
+latitudinis <3¹ PC 850 58⁴ 0⁴⁴ et proinde latitudo ipsa d* 40 2¹ 0⁴⁴.
+
+Angulus vero CPA qui representat differentiam longitudinis d* et cordis Ω
+inventus est 360 34⁴ 33⁴⁴, subtrahendus a longitudine cordis Ω 240 l⁴ 45⁴⁴ Ω et
+relinquitur longitudo ἅ in 170 27⁴ 12⁴⁴ fi.
+
+DIE 30 DECEMBRIS.
+
+Pro loco d· ex his obseruationibus habendo inuestigauimus has Ascenfiones
+Recstas quae subsequuntur.
+
+Ι. Inter Aldeboram et meridionale caput Π 450 7⁴
+Declinatio Aldeborae 15 35
+Declinatio capitis ][ 28 57
+Asc. R. Aldeborae 63 0
+
+Angulus interceptus add. 46 55}
+Asc. R. inferioris capitis][ 109 55}
+
+11. Inter meridionale caput ][ et cor Ω 37 1
+Declinatio cordis Ω 13 57
+
+Asc. R. cordis Ω 146 31
+
+Angulus interceptus subtr. 36 36
+
+Asc. R. merid. cap. ][ 109 55
+
+111. Inter superiorem pedem Erichtonij
+
+et mer. cap. ][ 36 24
+
+Declinatio pedis Erichtonij 32 12
+
+Asc. R. capitis ]1 109 55
+
+Angulus interceptus subtr. 42 23
+
+Asc. R. super. pedis Ericht. 67 32
+
+Ex altitudine autem d· Meridiana inuenta est declinatio eius 260 36⁴ Bor.
+“ Cumque H& obseruata fuerit distantia eius a superiore pede Erichtonij 350 26⁴
+prodit Asc. Recta eius 1070 56⁴. Qua mediante et declinatione datur longitudo
+et latitudo eius hoc modo:
+
+Asc. R. (Γ 107056’ Declin.26036¹B. Angulus inclinat. 82058‘
+
+Pund't. culm. 16 32 630 Latit. ἅ Bor. 4 8 verior 4 5}
+Declin. eius 22 26 B Differ. long. subtr. 0 31³2·
+Dii-'ferentia decl. 4 10 Longitudo ἅ 16 Οὲ ΕΞ
+
+RettocessitMars a dIe 26 8¹¹9. m. in diem 30 eandemque horam per qua-
+tuor integros dies 1⁸ 40³², debuit autem iuxta eope-micum receBiBe 1.44 et
+
